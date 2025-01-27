@@ -1,1 +1,2 @@
-print('vamcsi bhavani + entry course')
+for i in range(1,10):
+    print(i)
